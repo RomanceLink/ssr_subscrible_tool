@@ -1,1 +1,0 @@
-hysteria2://666888@23.94.123.166:443?peer=bing.com&insecure=1&obfs=none#RackNerd
